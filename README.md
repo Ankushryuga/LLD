@@ -93,7 +93,7 @@ with few problems beforehand.
 | Design Video Streaming | [Solution-1](https://lldcoding.com/design-lld-video-streaming-platform-machine-coding) | Frequently asked in all companies |                     |
 | Design Spotify | [Solution-1](https://lldcoding.com/implement-a-music-streaming-service-like-spotify-machine-coding) | Frequently asked in all companies |                     |
 | Design Bittorrent | [Solution-1](https://lldcoding.com/design-lld-a-peer-to-peer-file-sharing-system-like-bittorrent-machine-coding) | Frequently asked in all companies |                     |
-
+| Design Snake Ladder | [Solution-Pending] | Frequently asked in all companies |   |
 
 <br />
 
